@@ -1,5 +1,6 @@
 title: Jason Jopling
 description: My personal page and playground.
+github_username: jasonjopling
 
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
